@@ -162,12 +162,12 @@
 }
 
 /* Effect 1a */
-.no-touch .hi-icon-effect-1a .hi-icon:hover {
+.hi-icon-effect-1a .hi-icon:hover {
 	background: rgba(255,255,255,1);
 	color: #41ab6b;
 }
 
-.no-touch .hi-icon-effect-1a .hi-icon:hover:after {
+.hi-icon-effect-1a .hi-icon:hover:after {
 	-webkit-transform: scale(1);
 	-moz-transform: scale(1);
 	-ms-transform: scale(1);
@@ -176,7 +176,7 @@
 }
 
 /* Effect 1b */
-.no-touch .hi-icon-effect-1b .hi-icon:hover {
+.hi-icon-effect-1b .hi-icon:hover {
 	background: rgba(255,255,255,1);
 	color: #41ab6b;
 }
@@ -188,7 +188,7 @@
 	transform: scale(1.2);
 }
 
-.no-touch .hi-icon-effect-1b .hi-icon:hover:after {
+.hi-icon-effect-1b .hi-icon:hover:after {
 	-webkit-transform: scale(1);
 	-moz-transform: scale(1);
 	-ms-transform: scale(1);
@@ -217,11 +217,11 @@
 }
 
 /* Effect 2a */
-.no-touch .hi-icon-effect-2a .hi-icon:hover {
+.hi-icon-effect-2a .hi-icon:hover {
 	color: #eea303;
 }
 
-.no-touch .hi-icon-effect-2a .hi-icon:hover:after {
+.hi-icon-effect-2a .hi-icon:hover:after {
 	-webkit-transform: scale(0.85);
 	-moz-transform: scale(0.85);
 	-ms-transform: scale(0.85);
@@ -229,7 +229,7 @@
 }
 
 /* Effect 2b */
-.no-touch .hi-icon-effect-2b .hi-icon:hover:after {
+.hi-icon-effect-2b .hi-icon:hover:after {
 	-webkit-transform: scale(0);
 	-moz-transform: scale(0);
 	-ms-transform: scale(0);
@@ -240,7 +240,7 @@
 	transition: transform 0.4s, opacity 0.2s;
 }
 
-.no-touch .hi-icon-effect-2b .hi-icon:hover {
+.hi-icon-effect-2b .hi-icon:hover {
 	color: #fff;
 }
 
@@ -268,11 +268,11 @@
 	color: #f06060;
 }
 
-.no-touch .hi-icon-effect-3a .hi-icon:hover {
+.hi-icon-effect-3a .hi-icon:hover {
 	color: #fff;
 }
 
-.no-touch .hi-icon-effect-3a .hi-icon:hover:after {
+.hi-icon-effect-3a .hi-icon:hover:after {
 	-webkit-transform: scale(1.3);
 	-moz-transform: scale(1.3);
 	-ms-transform: scale(1.3);
@@ -285,7 +285,7 @@
 	color: #fff;
 }
 
-.no-touch .hi-icon-effect-3b .hi-icon:hover {
+.hi-icon-effect-3b .hi-icon:hover {
 	color: #f06060;
 }
 
@@ -297,7 +297,7 @@
 	opacity: 0;
 }
 
-.no-touch .hi-icon-effect-3b .hi-icon:hover:after {
+.hi-icon-effect-3b .hi-icon:hover:after {
 	-webkit-transform: scale(1);
 	-moz-transform: scale(1);
 	-ms-transform: scale(1);
@@ -330,19 +330,19 @@
 	border: 4px dashed #fff;
 }
 
-.no-touch .hi-icon-effect-4 .hi-icon:hover {
+.hi-icon-effect-4 .hi-icon:hover {
 	box-shadow: 0 0 0 0 rgba(255,255,255,0);
 	color: #fff;
 }
 
 /* Effect 4b */
-.no-touch .hi-icon-effect-4b .hi-icon:hover {
+.hi-icon-effect-4b .hi-icon:hover {
 	-webkit-transition: box-shadow 0.2s;
 	-moz-transition: box-shadow 0.2s;
 	transition: box-shadow 0.2s;
 }
 
-.no-touch .hi-icon-effect-4b .hi-icon:hover:after {
+.hi-icon-effect-4b .hi-icon:hover:after {
 	-webkit-animation: spinAround 9s linear infinite;
 	-moz-animation: spinAround 9s linear infinite;
 	animation: spinAround 9s linear infinite;
@@ -386,13 +386,13 @@
 	display: none;
 }
 
-.no-touch .hi-icon-effect-5 .hi-icon:hover {
+.hi-icon-effect-5 .hi-icon:hover {
 	background: rgba(255,255,255,1);
 	color: #702fa8;
 	box-shadow: 0 0 0 8px rgba(255,255,255,0.3);
 }
 
-.no-touch .hi-icon-effect-5a .hi-icon:hover:before {
+.hi-icon-effect-5a .hi-icon:hover:before {
 	-webkit-animation: toRightFromLeft 0.3s forwards;
 	-moz-animation: toRightFromLeft 0.3s forwards;
 	animation: toRightFromLeft 0.3s forwards;
@@ -435,7 +435,7 @@
 	}
 }
 
-.no-touch .hi-icon-effect-5b .hi-icon:hover:before {
+.hi-icon-effect-5b .hi-icon:hover:before {
 	-webkit-animation: toLeftFromRight 0.3s forwards;
 	-moz-animation: toLeftFromRight 0.3s forwards;
 	animation: toLeftFromRight 0.3s forwards;
@@ -478,7 +478,7 @@
 	}
 }
 
-.no-touch .hi-icon-effect-5c .hi-icon:hover:before {
+.hi-icon-effect-5c .hi-icon:hover:before {
 	-webkit-animation: toTopFromBottom 0.3s forwards;
 	-moz-animation: toTopFromBottom 0.3s forwards;
 	animation: toTopFromBottom 0.3s forwards;
@@ -521,7 +521,7 @@
 	}
 }
 
-.no-touch .hi-icon-effect-5d .hi-icon:hover:before {
+.hi-icon-effect-5d .hi-icon:hover:before {
 	-webkit-animation: toBottomFromTop 0.3s forwards;
 	-moz-animation: toBottomFromTop 0.3s forwards;
 	animation: toBottomFromTop 0.3s forwards;
@@ -572,12 +572,12 @@
 	transition: background 0.2s, color 0.2s;
 }
 
-.no-touch .hi-icon-effect-6 .hi-icon:hover {
+.hi-icon-effect-6 .hi-icon:hover {
 	background: rgba(255,255,255,1);
 	color: #64bb5d;
 }
 
-.no-touch .hi-icon-effect-6 .hi-icon:hover:before {
+.hi-icon-effect-6 .hi-icon:hover:before {
 	-webkit-animation: spinAround 2s linear infinite;
 	-moz-animation: spinAround 2s linear infinite;
 	animation: spinAround 2s linear infinite;
@@ -591,7 +591,7 @@
 	transition: background 0.2s, color 0.2s;	
 }
 
-.no-touch .hi-icon-effect-7 .hi-icon:hover {
+.hi-icon-effect-7 .hi-icon:hover {
 	color: #fff;
 }
 
@@ -611,7 +611,7 @@
 	transition: opacity 0.2s, box-shadow 0.2s;
 }
 
-.no-touch .hi-icon-effect-7a .hi-icon:hover:after {
+.hi-icon-effect-7a .hi-icon:hover:after {
 	opacity: 1;
 	box-shadow: 3px 3px 0 rgba(255,255,255,1);
 }
@@ -627,7 +627,7 @@
 	transition: transform 0.2s, opacity 0.2s;
 }
 
-.no-touch .hi-icon-effect-7a .hi-icon:hover:before {
+.hi-icon-effect-7a .hi-icon:hover:before {
 	-webkit-transform: scale(1);
 	-moz-transform: scale(1);
 	-ms-transform: scale(1);
@@ -647,7 +647,7 @@
 	transition: opacity 0.2s, transform 0.2s;
 }
 
-.no-touch .hi-icon-effect-7b .hi-icon:hover:after {
+.hi-icon-effect-7b .hi-icon:hover:after {
 	opacity: 1;
 	-webkit-transform: rotate(0deg);
 	-moz-transform: rotate(0deg);
@@ -666,7 +666,7 @@
 	transition: transform 0.2s, opacity 0.2s;
 }
 
-.no-touch .hi-icon-effect-7b .hi-icon:hover:before {
+.hi-icon-effect-7b .hi-icon:hover:before {
 	-webkit-transform: scale(1);
 	-moz-transform: scale(1);
 	-ms-transform: scale(1);
@@ -695,7 +695,7 @@
 	transform: scale(0.9);
 }
 
-.no-touch .hi-icon-effect-8 .hi-icon:hover {
+.hi-icon-effect-8 .hi-icon:hover {
 	background: rgba(255,255,255,0.05);
 	-webkit-transform: scale(0.93);
 	-moz-transform: scale(0.93);
@@ -771,7 +771,7 @@
 }
 
 /* Effect 9a */
-.no-touch .hi-icon-effect-9a .hi-icon:hover:after {
+.hi-icon-effect-9a .hi-icon:hover:after {
 	-webkit-transform: scale(0.85);
 	-moz-transform: scale(0.85);
 	-ms-transform: scale(0.85);
@@ -779,20 +779,20 @@
 	opacity: 0.5;
 }
 
-.no-touch .hi-icon-effect-9a .hi-icon:hover {
+.hi-icon-effect-9a .hi-icon:hover {
 	box-shadow: 0 0 0 10px rgba(255,255,255,1);
 	color: #fff;
 }
 
 /* Effect 9b */
-.no-touch .hi-icon-effect-9b .hi-icon:hover:after {
+.hi-icon-effect-9b .hi-icon:hover:after {
 	-webkit-transform: scale(0.85);
 	-moz-transform: scale(0.85);
 	-ms-transform: scale(0.85);
 	transform: scale(0.85);
 }
 
-.no-touch .hi-icon-effect-9b .hi-icon:hover {
+.hi-icon-effect-9b .hi-icon:hover {
 	box-shadow: 0 0 0 10px rgba(255,255,255,0.4);
 	color: #fff;
 }
